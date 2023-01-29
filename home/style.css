@@ -1,0 +1,185 @@
+*,
+*::before::after {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.oasis-home {
+    position: absolute;
+    width: 226px;
+    height: 337px;
+    left: 459px;
+    top: 582px;
+    background-color: #FFECBB;
+}
+
+.oasis-home__windows-one {
+    display: flex;
+    width: 55px;
+    height: 56px;
+    margin-top: 32px;
+    margin-left: 30px;
+    background-color: #E7C1F9;
+}
+
+.oasis-home__windows-two {
+    display: flex;
+    width: 55px;
+    height: 56px;
+    margin-top: 32px;
+    margin-left: 145px;
+    background-color: #E7C1F9;
+}
+
+.oasis-home__windows-three {
+    display: flex;
+    width: 55px;
+    height: 56px;
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: #E7C1F9;
+}
+
+.oasis-home_windows_door {
+    display: flex;
+    width: 57px;
+    height: 81px;
+    margin-top: -6px;
+    margin-left: 126px;
+    background-color: #84CEF9;
+}
+
+*,
+*::before::after {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.oasis-home1 {
+    position: absolute;
+    width: 247px;
+    height: 351px;
+    left: 596px;
+    top: 1001px;
+    background: #84CEF9;
+}
+
+.oasis-home__windows-one1 {
+    position: absolute;
+    width: 62px;
+    height: 66px;
+    left: 23px;
+    top: 33px;
+    background: #FFECBB;
+}
+
+.oasis-home__windows-two1 {
+    position: absolute;
+    width: 82px;
+    height: 108px;
+    left: 140px;
+    top: 33px;
+    background: #FFECBB;
+}
+
+.oasis-home__windows-three1 {
+    position: absolute;
+    width: 62px;
+    height: 66px;
+    left: 23px;
+    top: 176px;
+    background: #FFECBB;
+}
+
+.oasis-home_windows_door1 {
+    position: absolute;
+    width: 55px;
+    height: 127px;
+    left: 112px;
+    top: 224px;
+    background: #E7C1F9;
+}
+
+*,
+*::before::after {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.oasis-home11 {
+    position: absolute;
+    width: 217px;
+    height: 380px;
+    left: 763px;
+    top: 539px;
+    background: #E7C1F9;
+}
+
+.oasis-home__windows-one11 {
+    position: absolute;
+    width: 46px;
+    height: 47px;
+    left: 23px;
+    top: 43px;
+    background: #84CEF9;
+}
+
+.oasis-home__windows-two11 {
+    position: absolute;
+    width: 46px;
+    height: 47px;
+    left: 114px;
+    top: 43px;
+    background: #84CEF9;
+}
+
+.oasis-home__windows-three11 {
+    position: absolute;
+    width: 46px;
+    height: 47px;
+    left: 40px;
+    top: 114px;
+    background: #84CEF9;
+}
+
+.lilac-home__windows-four11 {
+    position: absolute;
+    width: 46px;
+    height: 47px;
+    left: 894px;
+    top: 653px;
+    background: #84CEF9;
+}
+
+.lilac-home__windows-five11 {
+    position: absolute;
+    width: 46px;
+    height: 47px;
+    left: 794px;
+    top: 729px;
+    background: #84CEF9;
+}
+
+.lilac-home__windows-six11 {
+    position: absolute;
+    width: 46px;
+    height: 47px;
+    left: 885px;
+    top: 729px;
+    background: #84CEF9;
+}
+
+.oasis-home_windows_door11 {
+    position: absolute;
+    width: 44px;
+    height: 81px;
+    left: 75px;
+    top: 299px;
+    background: #FFECBB;
+}
